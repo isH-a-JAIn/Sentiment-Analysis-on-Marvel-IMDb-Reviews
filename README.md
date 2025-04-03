@@ -1,6 +1,8 @@
 # Sentiment-Analysis-on-Marvel-IMDb-Reviews
 
 
+This repository contains the full code and presentation slides for our case study on sentiment analysis of Marvel Movie IMDb reviews. The master branch includes our Python code and a PPT presentation summarizing our work.
+
 **Team Members:**  
 - Bashir Gulistani  
 - Isha Jain  
